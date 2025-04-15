@@ -1,0 +1,11 @@
+{
+  "name": "weather-line-bot",
+  "version": "1.0.0",
+  "description": "create a a line bot to send weather data every morning. The project will be deployed to Netlify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anne Shih",
+  "license": "ISC"
+}
